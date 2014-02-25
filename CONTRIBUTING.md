@@ -6,10 +6,13 @@ process easy and effective for everyone involved.
 ## Icon Requests
 
 Requests for new icons are welcome. Take a moment to find out whether your request is appropiate for this set of icons.
-New icon requests should include the following:
+To put in a request for a new icon, open a new issue with the following:
 
-1. Description of the icon
-2. Final name of the icon
+1. Title your new issue as <code>Icon Request: icon name</code>
+2. Describe the new icon
+3. List a couple of use cases for the icon
+4. Label the issue as "New Icon"
+
 
 ## Creating Icons
 
@@ -23,3 +26,10 @@ If using Adobe Illustrator, the following settings are recommended.
 2. Under Preferences > Guides & Grids
    Gridline every: 64 pt
    Subdivisions: 1
+
+3. More Helpful Options to Turn on
+   - Window > Transform > Align to Pixel Grid
+   - View > Snap to Grid > 
+   - View > Pixel Preview >
+   - Artboard Options > Show Center Mark 
+   - Artboard Options > Show Cross Hairs
