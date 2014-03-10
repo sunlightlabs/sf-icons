@@ -24,12 +24,16 @@ If using Adobe Illustrator, the following settings are recommended.
    General: Points
 
 2. Under Preferences > Guides & Grids
-   Gridline every: 64 pt
-   Subdivisions: 1
+   - Gridline every: 64 pt
+   - Subdivisions: 1
 
-3. More Helpful Options to Turn on
+   Artboard options
+   - X: 0
+   - Y: 0
+
+3. Addtional Options to Turn on
    - Window > Transform > Align to Pixel Grid
-   - View > Snap to Grid > 
-   - View > Pixel Preview >
+   - View > Snap to Grid > On
+   - View > Pixel Preview > On
    - Artboard Options > Show Center Mark 
    - Artboard Options > Show Cross Hairs
