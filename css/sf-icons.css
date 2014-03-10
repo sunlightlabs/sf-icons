@@ -1,0 +1,57 @@
+@font-face {
+	font-family: 'sf-icons';
+	src:url('../fonts/sf-icons.eot?#iefix') format('embedded-opentype'),
+			url('../fonts/sf-icons.woff') format('woff'),
+			url('../fonts/sf-icons.ttf') format('truetype'),
+			url('../fonts/sf-icons.svg?#sf-icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.icon {
+	font-family: 'sf-icons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-email:before {
+	content: "\e600";
+}
+.icon-facebook-alt:before {
+	content: "\e601";
+}
+.icon-facebook:before {
+	content: "\e602";
+}
+.icon-github:before {
+	content: "\e603";
+}
+.icon-google-plus:before {
+	content: "\e604";
+}
+.icon-instagram:before {
+	content: "\e605";
+}
+.icon-linkedin:before {
+	content: "\e606";
+}
+.icon-minus:before {
+	content: "\e607";
+}
+.icon-plus:before {
+	content: "\e608";
+}
+.icon-twitter:before {
+	content: "\e609";
+}
+.icon-calendar:before {
+	content: "\e60a";
+}
