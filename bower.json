@@ -1,0 +1,24 @@
+{
+  "name": "sunlight-icons",
+  "version": "0.2.0",
+  "ignore": [
+    "**/.*",
+    "**/*.txt",
+    "**/*.md",
+    "node_modules",
+    "components",
+    "example",
+    "src",
+    "build",
+    "gulpfile.js",
+    "Brewfile",
+    "Gemfile",
+    "Gemfile.lock",
+    "npm-debug.log",
+    "package.json",
+    "aws.*",
+    "fontcustom.*"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}

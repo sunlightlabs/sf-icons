@@ -1,0 +1,6 @@
+.DS_Store
+.fontcustom-manifest.json
+build
+npm-debug.log
+node_modules
+aws.json

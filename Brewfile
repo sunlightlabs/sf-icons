@@ -1,0 +1,1 @@
+install fontforge eot-utils
