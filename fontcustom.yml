@@ -5,11 +5,15 @@
 # --------------------------------------------------------------------------- #
 
 font_name: sf-icons
+font_design_size: 16
+font_em: 512
+# font_ascent: 512
+# font_descent: 0
 css_selector: .sficon-{{glyph}}
 preprocessor_path: ""
 autowidth: true
 no_hash: true
-force: false
+force: true
 debug: false
 quiet: false
 

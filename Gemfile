@@ -1,3 +1,3 @@
 source 'http://rubygems.org'
 
-gem 'fontcustom'
+gem 'fontcustom', :git => 'git://github.com/sunlightlabs/fontcustom.git'
