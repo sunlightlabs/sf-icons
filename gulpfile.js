@@ -64,7 +64,7 @@ gulp.task('build-js', function(){
 
 gulp.task('build-css', ['compile-fonts'], function(){
   return gulp.src(paths.build.css)
-    .pipe(srcreplace(/font-url\("sf-icons/g, 'font-url("../fonts/sf-icons'))
+    .pipe(srcreplace(/font-url\("sf-icons/g, 'url("../fonts/sf-icons'))
     .pipe(rename({basename: 'sf-icons'}))
     .pipe(sass())
     .pipe(prefix("last 2 version", "> 1%", "ie 8", "ie 7"))

@@ -1,14 +1,14 @@
 @font-face {
   font-family: "sf-icons";
-  src: font-url("../fonts/sf-icons.eot");
-  src: font-url("../fonts/sf-icons.eot?#iefix") format("embedded-opentype"), font-url("../fonts/sf-icons.woff") format("woff"), font-url("../fonts/sf-icons.ttf") format("truetype"), font-url("../fonts/sf-icons.svg#sf-icons") format("svg");
+  src: url("../fonts/sf-icons.eot");
+  src: url("../fonts/sf-icons.eot?#iefix") format("embedded-opentype"), url("../fonts/sf-icons.woff") format("woff"), url("../fonts/sf-icons.ttf") format("truetype"), url("../fonts/sf-icons.svg#sf-icons") format("svg");
   font-weight: normal;
   font-style: normal; }
 
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
   @font-face {
     font-family: "sf-icons";
-    src: font-url("../fonts/sf-icons.svg#sf-icons") format("svg"); }
+    src: url("../fonts/sf-icons.svg#sf-icons") format("svg"); }
  }
 
 [data-icon]:before {
