@@ -14,6 +14,6 @@ Icon font for Sunlight Foundation
     
     ```
 	<!--[if IE 8]>
-		<script src="http://sunlight-cdn.s3.amazonaws.com/sf-icons/0.1.0/js/sf-icons.js"></script>
+		<script src="http://sunlight-cdn.s3.amazonaws.com/sf-icons/:version/js/sf-icons.js"></script>
 	<![endif]-->
     ```
