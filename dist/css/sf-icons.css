@@ -14,7 +14,7 @@
 [data-icon]:before {
   content: attr(data-icon); }
 
-[data-icon]:before, .sficon-calendar:before, .sficon-email:before, .sficon-facebook:before, .sficon-facebook-alt:before, .sficon-github:before, .sficon-google-plus:before, .sficon-instagram:before, .sficon-linkedin:before, .sficon-minus:before, .sficon-plus:before, .sficon-twitter:before {
+[data-icon]:before, .sficon-calendar:before, .sficon-contract:before, .sficon-email:before, .sficon-expand:before, .sficon-facebook:before, .sficon-facebook-alt:before, .sficon-flickr:before, .sficon-github:before, .sficon-google-plus:before, .sficon-instagram:before, .sficon-linkedin:before, .sficon-minus:before, .sficon-plus:before, .sficon-twitter:before, .sficon-youtube:before {
   display: inline-block;
   font-family: "sf-icons";
   font-style: normal;
@@ -31,32 +31,44 @@
 .sficon-calendar:before {
   content: "\f100"; }
 
-.sficon-email:before {
+.sficon-contract:before {
   content: "\f101"; }
 
-.sficon-facebook:before {
+.sficon-email:before {
   content: "\f102"; }
 
-.sficon-facebook-alt:before {
+.sficon-expand:before {
   content: "\f103"; }
 
-.sficon-github:before {
+.sficon-facebook:before {
   content: "\f104"; }
 
-.sficon-google-plus:before {
+.sficon-facebook-alt:before {
   content: "\f105"; }
 
-.sficon-instagram:before {
+.sficon-flickr:before {
   content: "\f106"; }
 
-.sficon-linkedin:before {
+.sficon-github:before {
   content: "\f107"; }
 
-.sficon-minus:before {
+.sficon-google-plus:before {
   content: "\f108"; }
 
-.sficon-plus:before {
+.sficon-instagram:before {
   content: "\f109"; }
 
-.sficon-twitter:before {
+.sficon-linkedin:before {
   content: "\f10a"; }
+
+.sficon-minus:before {
+  content: "\f10b"; }
+
+.sficon-plus:before {
+  content: "\f10c"; }
+
+.sficon-twitter:before {
+  content: "\f10d"; }
+
+.sficon-youtube:before {
+  content: "\f10e"; }
