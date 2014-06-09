@@ -179,5 +179,5 @@ gulp.task('help', help);
 gulp.task('setup', ['update-bower-version', 'build-clean']);
 gulp.task('build', ['build-fonts', 'build-js', 'build-css', 'build-img', 'build-styleguide']);
 gulp.task('default', ['setup'], function(){
-  gulp.run('build');
+  gulp.run('help');
 });
