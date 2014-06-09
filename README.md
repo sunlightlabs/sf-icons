@@ -33,6 +33,5 @@ If IE8 support is needed, include the following at the bottom of your page:
 1. Run the server with `gulp connect` and review changes to the iconfont at [http://localhost:4000](http://localhost:4000).
 1. Commit and push your changes.
 1. Tag the release by running `gulp tag`.
-1. Push your changes by running `git push origin master`
 1. Push your tag by running `git push --tags`
 1. Publish to S3 by running `gulp publish`. You will need valid S3 credentials in your *aws.json* file to do so.
