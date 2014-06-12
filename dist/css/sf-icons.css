@@ -14,7 +14,7 @@
 [data-icon]:before {
   content: attr(data-icon); }
 
-[data-icon]:before, .sficon-calendar:before, .sficon-contract:before, .sficon-email:before, .sficon-expand:before, .sficon-facebook:before, .sficon-facebook-alt:before, .sficon-flickr:before, .sficon-github:before, .sficon-google-plus:before, .sficon-instagram:before, .sficon-linkedin:before, .sficon-linkedin-alt:before, .sficon-minus:before, .sficon-plus:before, .sficon-scout:before, .sficon-skype:before, .sficon-tumblr:before, .sficon-twitter:before, .sficon-youtube:before {
+[data-icon]:before, .sficon-calendar:before, .sficon-contract:before, .sficon-email:before, .sficon-expand:before, .sficon-facebook:before, .sficon-facebook-alt:before, .sficon-flickr:before, .sficon-github:before, .sficon-google-plus:before, .sficon-instagram:before, .sficon-linkedin:before, .sficon-linkedin-alt:before, .sficon-minus:before, .sficon-pin:before, .sficon-pin-alt:before, .sficon-plus:before, .sficon-pocket:before, .sficon-scout:before, .sficon-skype:before, .sficon-tcamp:before, .sficon-tumblr:before, .sficon-twitter:before, .sficon-youtube:before {
   display: inline-block;
   font-family: "sf-icons";
   font-style: normal;
@@ -67,14 +67,26 @@
 .sficon-minus:before {
   content: "\f10c"; }
 
+.sficon-pin:before {
+  content: "\f113"; }
+
+.sficon-pin-alt:before {
+  content: "\f114"; }
+
 .sficon-plus:before {
   content: "\f10d"; }
+
+.sficon-pocket:before {
+  content: "\f115"; }
 
 .sficon-scout:before {
   content: "\f10e"; }
 
 .sficon-skype:before {
   content: "\f10f"; }
+
+.sficon-tcamp:before {
+  content: "\f116"; }
 
 .sficon-tumblr:before {
   content: "\f110"; }
